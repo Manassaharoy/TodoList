@@ -14,6 +14,13 @@
 #ffffff 
 */
 
+body{
+    background-image: linear-gradient(360deg, #d7eaff, #ffffff) ;
+   
+    color: #009394;
+    min-height: 100vh;
+
+}
 
 header{
     font-size: 1.5rem;
