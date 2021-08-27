@@ -14,9 +14,11 @@
 #ffffff 
 */
 
-/* body{
+body{
  
-    background-image: url("/images/bg.png");
+/*     background-image: url("/images/bg.png"); */
+    background-image: url("https://github.com/Manassaharoy/TodoList/blob/main/images/bg.png");
+    
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100vh;
@@ -28,7 +30,7 @@
     min-height: 100vh;
 
 }
- */
+
 header{
     font-size: 1.5rem;
 }
